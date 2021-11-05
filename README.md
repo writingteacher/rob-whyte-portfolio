@@ -1,5 +1,5 @@
 # Rob Whyte Projects
-<hr />
+
 
 Technical writer and pubished author with a background in instructional design and training. This portfolio contains samples from SaaS user documentation projects.
 
