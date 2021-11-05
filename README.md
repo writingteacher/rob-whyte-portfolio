@@ -10,7 +10,7 @@ This San Francisco SaaS startup changed the way real estate agents work by creat
 The company needed an expert writer to quickly learn the platform, write help center content, and create explainer videos.
 <br>
 #### My role
-Took charge of the knowledge base and wrote 50+ articles. I also scripted, recorded, and <a href="help.glide.com/en/articles/5026910-how-to-create-an-offer-package" target="_blank"><strong>explainer videos</strong>.</a>
+Took charge of the knowledge base and wrote 50+ articles. I also scripted, recorded, and [explainer videos].(https://help.glide.com/en/articles/5026910-how-to-create-an-offer-package){:target="_blank" rel="noopener"}
 <br>
 #### Results
 Created an easy to search mature Intercom help center. Currently provide maintenance services to support new releaes.
