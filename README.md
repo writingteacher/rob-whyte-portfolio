@@ -19,7 +19,7 @@ I built the company's knowledge base from scratch. The work started with a rough
 Zendesk
 Fastone Capture
 MS Excel
-<img src="/images/sinorbis-rob-whyte-1.png" width="350"/>  
+<img src="images/sinorbis-rob-whyte-1.png" width="350"/>  
 
 <hr />
 
