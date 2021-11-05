@@ -9,6 +9,16 @@ Technical writer and pubished author with a background in instructional design a
 ## Sinorbis
 Based in Sydney Austraia, this SaaS CMS provides a drag and drop web builder for entrepreurs hoping to create an online business in China. In addition to the intitive UI, Sinorbis has access to a hosting service that deluivers web access on the other side of China'a Great Firewall.
 
+#### The problem
+The company needed a knowledge base to support its rapidly growing client base and revamp its technical support system. 
+
+### My role
+I built the company knowledge base form scratch. The work started with a rough infromation architecture mapped out on a few  PPT slides. Some eighteen months later, the help site had reach maturity. I was lft mostly on my own to figure out the ystem though there were occassiona collaborative meets with the Customer Success Manager to review prioriy deliverables and answer FAQs. Today, I continue to provide occassion maintenace support by writing how-to articles for new features.
+
+### Tools
+Zendesk
+Fastone Capture
+MS Excel
 
 <hr />
 
