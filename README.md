@@ -23,7 +23,7 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * Fastone Capture
 * MS Excel
 * PPT  
-
+<img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
 
 
 <hr />
