@@ -61,4 +61,20 @@ Delivered 10 articles and completed the help center.
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
 <br><br> 
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
-<hr />
+<br><br>
+## UX Writing
+Independent onboarding project.
+##### The problem
+Write onboarding copy for an app that increases conversion rates.
+##### My role
+Write the UX text and create a copy doc.
+##### Results
+Created doc copy.
+##### Tools
+* Figma
+* Google docs  
+<br><br>
+<img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
+<br><br> 
+<img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
+
