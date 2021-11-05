@@ -74,7 +74,7 @@ Created doc copy.
 * Figma
 * Google docs  
 <br><br>
-<img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
+<img style="float:left;" src="images/ux-rob-whyte-1.png" class="responsive"/>
 <br><br> 
-<img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
+<img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
 
