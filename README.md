@@ -4,11 +4,9 @@
 A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
 
 At the intersection of that experience, Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for SaaS documentation that reduces user friction.
-
 <br>  
 ## Glide
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
-<br>
 ##### The problem
 The company needed an expert writer to quickly learn the platform, write help center content, and create explainer videos.
 <br>
