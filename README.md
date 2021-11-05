@@ -10,7 +10,7 @@ This San Francisco SaaS startup changed the way real estate agents work by creat
 The company needed an expert writer to quickly learn the platform, write help center content, and create explainer videos.
 <br>
 #### My role
-Took charge of the knowledge base and wrote 50+ articles. Scripted, recorded, and [explainer videos].(https://help.glide.com/en/articles/5026910-how-to-create-an-offer-package){:target="_blank" rel="noopener"}
+Took charge of the knowledge base and wrote 50+ articles. Scripted, recorded, and [explainer videos](https://help.glide.com/en/articles/5026910-how-to-create-an-offer-package){:target="_blank" rel="noopener"}.
 <br>
 #### Results
 Created an easy to search mature Intercom help center. Currently provide maintenance services to support new releaes.
@@ -21,7 +21,7 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Fastone Capture
  
 <br>
-<img src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
+<img src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
  
 <img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
@@ -45,3 +45,9 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * MS Excel
 * PPT 
 
+<br>
+<img src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
+<br>
+ 
+<img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
+<hr />
