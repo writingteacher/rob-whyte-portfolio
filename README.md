@@ -3,7 +3,7 @@
 
 Technical writer and published author with a background in instructional design and training. This portfolio contains samples from SaaS user documentation projects.
 
-<img src="rob-whyte.jpg" alt="rob whyte technical writer" width="150"/>  
+<img src="rob-whyte.jpg" alt="rob whyte technical writer" width="150" class="responsive"/>  
 <br>  
   <br>  
 ## Sinorbis  
@@ -13,7 +13,7 @@ Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder f
 The company needed a knowledge base to support its rapidly growing client base and revamp its technical support system. 
 <br>  
   <br>
-<img src="images/sinorbis-rob-whyte-1.png" />
+<img src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br>  
   <br>
 ##### My role  
