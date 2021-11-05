@@ -52,8 +52,8 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
 <hr />
 
-# Contract House
-Based in Singapore, this SaaS platform helps clients store, locate, and manage contracts.
+# Contract Hound
+Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts. 
 <br>
 #### The problem
 Before launching its upated product, the CEO asked me to write the conten for a quick start.
