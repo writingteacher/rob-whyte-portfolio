@@ -3,7 +3,7 @@
 
 Technical writer and published author with a background in instructional design and training. This portfolio contains samples from SaaS user documentation projects.
 
-<img src="rob-whyte.jpg" alt="rob whyte technical writer" width="150" class="responsive"/>  
+<img src="rob-whyte.jpg" alt="rob whyte technical writer" width="150" class="responsive-a"/>  
 <br>  
   <br>  
 ## Sinorbis  
