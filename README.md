@@ -17,7 +17,7 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Camtasia
 * Intercom
 * Fastone Capture
-<br>
+<br><br>
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
 <br>
@@ -39,12 +39,12 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * Zendesk
 * Fastone Capture
 * MS Excel
-* PPT 
-<br>
+* PPT
+<br><br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
-<br><br>
+<br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-<br><br>
+<br>
 ## Contract Hound
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
@@ -55,7 +55,7 @@ Created the guide from scratch. Learned the platform, outlined the required cont
 Delivered 10 articles and completed the help center.
 ##### Tools
 * Intercom
-* Fastone Capture  
+* Fastone Capture
 <br>
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
 <br><br> 
