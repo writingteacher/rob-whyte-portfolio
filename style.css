@@ -11,7 +11,7 @@ body {
   margin: 0 auto;
   max-width: 50em;
   font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.2;
+  line-height: 1.1;
   padding: 2em 1em;
 }
 
@@ -28,7 +28,7 @@ h3 {
 }
 
 h2, h3 {
-  margin-top: 1.5em;
+  margin-top: 1.1em;
 }
 
 h1, h2, strong {
