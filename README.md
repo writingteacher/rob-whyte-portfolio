@@ -12,20 +12,18 @@ The company needed an expert writer to quickly learn the platform, write help ce
 <br>
 ###### My role
 Took charge of the knowledge base and wrote 50+ articles. Scripted, recorded, and [explainer videos](https://help.glide.com/en/articles/5026910-how-to-create-an-offer-package){:target="_blank" rel="noopener"}.
-<br>
 ###### Results
 Created an easy to search mature Intercom help center. Currently provide maintenance services to support new releaes.
-<br>
 ###### Tools
 * Camtasia
 * Intercom
 * Fastone Capture
- 
 <br>
 <img src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
- 
+<br>
 <img src="images/glide-rob-whyte-2.png" class="responsive"/>
+<br><br>
 <hr />
 
 ## Sinorbis
