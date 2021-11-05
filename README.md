@@ -24,7 +24,7 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 <img src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
  
-<img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
+<img src="images/glide-rob-whyte-2.png" class="responsive"/>
 <hr />
 
 # Sinorbis
