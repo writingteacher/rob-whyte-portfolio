@@ -1,5 +1,5 @@
 ## About
-<img style="float:right; padding-left:30px; padding-bottom:30px;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" >  Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, where the Wheel of Fortuna showed her hand.
+<img style="float:right; padding-left:30px; padding-bottom:30px;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" >  Rob has been writing professionally for 25+ years. Fresh out of graduate school (M.Sc. Urban Planning), he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, where the Wheel of Fortuna showed her hand.
 
 A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
 
@@ -18,7 +18,7 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Intercom
 * Fastone Capture  
 <br><br>
-<img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
+<img id="img"style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
 <br>
 <img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
