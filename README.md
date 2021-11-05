@@ -17,8 +17,8 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 ###### Tools
 * Camtasia
 * Intercom
-* Fastone Capture
-<br>
+* Fastone Capture  
+<br><br>
 <img src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
 <br>
@@ -52,24 +52,19 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <hr />
 
 ## Contract Hound
-Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts. 
-<br>
+Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
 Before launching its upated product, the CEO asked me to write the content for a quick start.
-<br>
 ##### My role
 Created the guide from scratch. Learned the platform, outlined the required content, wrote the how-to articles.
-<br>
 ##### Results
 Delivered 10 articles and completed the help center.
-<br>
 ##### Tools
 * Intercom
-* Fastone Capture
-
+* Fastone Capture  
+<br>
 <br>
 <img src="images/hound-rob-whyte-1.png" class="responsive"/>
-<br>
- 
+<br><br> 
 <img src="images/hound-rob-whyte-2.png" class="responsive"/>
 <hr />
