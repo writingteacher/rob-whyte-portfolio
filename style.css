@@ -5,9 +5,10 @@
 * {
   box-sizing: border-box;
 }
-
+//  color: #555 //
 body {
-  color: #555;
+  color: #ffffff;
+  
   margin: 0 auto;
   max-width: 50em;
   font-family: "Helvetica", "Arial", sans-serif;
