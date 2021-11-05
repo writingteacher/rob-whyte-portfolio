@@ -1,9 +1,9 @@
 # Rob Whyte Projects
 <hr />
 
-Technical writer and pubished author with a background in instructional design and training. This portfolio contains samples from SaaS user documeation projects.
+Technical writer and pubished author with a background in instructional design and training. This portfolio contains samples from SaaS user documentation projects.
 
-<img src="rob-whyte.jpg" alt="rob whyte technical writer" width="200"/>
+<img src="rob-whyte.jpg" alt="rob whyte technical writer" width="150"/>
 ## Sinorbis
 <hr />
 
