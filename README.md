@@ -56,10 +56,10 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts. 
 <br>
 #### The problem
-Before launching its upated product, the CEO asked me to write the conten for a quick start.
+Before launching its upated product, the CEO asked me to write the content for a quick start.
 <br>
 #### My role
-Create the guide from scratch. Learned the platform, outlined the required content, wrote the how-to articles.
+Created the guide from scratch. Learned the platform, outlined the required content, wrote the how-to articles.
 <br>
 #### Results
 Delivered 10 articles and completed the help center.
