@@ -9,11 +9,11 @@ At the intersection of that experience, Rob comes to technical writing with an e
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
 ##### The problem
 The company needed an expert writer to quickly learn the platform, write help center content, and create explainer videos.
-###### My role
+##### My role
 Took charge of the knowledge base and wrote 50+ articles. Scripted, recorded, and [explainer videos](https://help.glide.com/en/articles/5026910-how-to-create-an-offer-package){:target="_blank" rel="noopener"}.
-###### Results
+##### Results
 Created an easy to search mature Intercom help center. Currently provide maintenance services to support new releases.
-###### Tools
+##### Tools
 * Camtasia
 * Intercom
 * Fastone Capture  
