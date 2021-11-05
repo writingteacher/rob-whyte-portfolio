@@ -1,5 +1,5 @@
 # About
-<img align="right" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a">  Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand.
+<img style="float:right; padding-left:30px" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" >  Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand.
 
 He has been a freelance technical writer for since 2018. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
 
