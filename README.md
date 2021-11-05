@@ -51,3 +51,26 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
  
 <img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
 <hr />
+
+# Contract House
+Based in Singapore, this SaaS platform helps clients store, locate, and manage contracts.
+<br>
+#### The problem
+Before launching its upated product, the CEO asked me to write the conten for a quick start.
+<br>
+#### My role
+Create the guide from scratch. Learned the platform, outlined the required content, wrote the how-to articles.
+<br>
+#### Results
+Delivered 10 articles and completed the help center.
+<br>
+#### Tools
+* Intercom
+* Fastone Capture
+
+<br>
+<img src="images/hound-rob-whyte-1.png" class="responsive"/>
+<br>
+ 
+<img src="images/hound-rob-whyte-2.png" class="responsive"/>
+<hr />
