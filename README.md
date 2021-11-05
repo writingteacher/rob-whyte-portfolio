@@ -1,7 +1,7 @@
 ### About
-<img style="float:right; padding-left:30px; padding-bottom:30px;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" >  Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand.
+<img style="float:right; padding-left:30px; padding-bottom:30px;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" >  Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, where the Wheel of Fortuna showed her hand.
 
-A freelance technical writer since 2018, he specializes in user documenation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
+A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
 
 At the intersection of that experience, Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for SaaS documentation that reduces user friction.
 
@@ -30,19 +30,19 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 <img src="images/glide-rob-whyte-2.png" class="responsive"/>
 <hr />
 
-# Sinorbis
+### Sinorbis
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
 <br>
-#### The problem
+##### The problem
 The company needed a knowledge base to support its rapidly growing client base and revamp its technical support system.
 <br>
-#### My role
+##### My role
 I built the company's knowledge base from scratch. The work started with a rough information architecture mapped out on a few PPT slides. Eighteen months later, the help site had reached maturity.
 <br>
-#### Results
+##### Results
 Delivered an easy to search Zendesk help center. The knowledge base articles help the Support Team. Instead of manually respoding to every ticket, the system send out links to how-to articles.
 <br>
-#### Tools
+##### Tools
 * Zendesk
 * Fastone Capture
 * MS Excel
@@ -55,19 +55,19 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
 <hr />
 
-# Contract Hound
+### Contract Hound
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts. 
 <br>
-#### The problem
+##### The problem
 Before launching its upated product, the CEO asked me to write the content for a quick start.
 <br>
-#### My role
+##### My role
 Created the guide from scratch. Learned the platform, outlined the required content, wrote the how-to articles.
 <br>
-#### Results
+##### Results
 Delivered 10 articles and completed the help center.
 <br>
-#### Tools
+##### Tools
 * Intercom
 * Fastone Capture
 
