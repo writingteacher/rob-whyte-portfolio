@@ -3,6 +3,30 @@ Technical writer and published author with a background in instructional design 
 
 <img src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" width="150"/>
 <br>  
+# Glide
+This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
+<br>
+#### The problem
+The company needed an expert writer to quickly learn the platform, write help center content, and create explainer videos.
+<br>
+#### My role
+Took charge of the knowledge base and wrote 50+ articles. I also scripted, recorded, and <a href="help.glide.com/en/articles/5026910-how-to-create-an-offer-package" target="_blank"><strong>explainer videos</strong>.</a>
+<br>
+#### Results
+Created an easy to search mature Intercom help center. Currently provide maintenance services to support new releaes.
+<br>
+#### Tools
+* Camtasia
+* Intercom
+* Fastone Capture
+ 
+<br>
+<img src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
+<br>
+ 
+<img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
+<hr />
+
 # Sinorbis
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
 <br>
@@ -19,13 +43,5 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * Zendesk
 * Fastone Capture
 * MS Excel
-* PPT  
-<br>
-<img src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
-<br>
- 
-<img src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-
-
-<hr />
+* PPT 
 
