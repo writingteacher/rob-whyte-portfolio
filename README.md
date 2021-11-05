@@ -11,15 +11,21 @@ Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder f
 
 ##### The problem  
 The company needed a knowledge base to support its rapidly growing client base and revamp its technical support system. 
-
+<br>  
+  <br>
+<img src="images/sinorbis-rob-whyte-1.png" />
+<br>  
+  <br>
 ##### My role  
 I built the company's knowledge base from scratch. The work started with a rough information architecture mapped out on a few  PPT slides. Some eighteen months later, the help site had reached maturity. For the most part, the company trusted me to work alone, figure the system, and then transform complex ideas into plain English explanations. Today, I continue to provide occasion maintenance support by writing how-to articles for new features.
 
 ##### Tools  
-Zendesk
-Fastone Capture
-MS Excel
-<img src="images/sinorbis-rob-whyte-1.png" width="350"/>  
+* Zendesk
+* Fastone Capture
+* MS Excel
+* PPT  
+
+
 
 <hr />
 
