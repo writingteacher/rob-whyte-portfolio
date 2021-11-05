@@ -18,10 +18,10 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Intercom
 * Fastone Capture  
 <br><br>
-<img style="float:left;" src="images/glide-rob-whyte-1.png" class="responsive"/>
+<img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
 <br>
-<img style="float:left;" src="images/glide-rob-whyte-2.png" class="responsive"/>
+<img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
 <br><br>
 
 
