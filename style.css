@@ -29,7 +29,9 @@ h3 {
 
 h2, h3 {
   margin-top: 1.1em;
+    line-height: 1;
 }
+
 
 h1, h2, strong {
   color: #333;
