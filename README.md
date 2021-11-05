@@ -18,10 +18,10 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Intercom
 * Fastone Capture  
 <br><br>
-<img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
+<img style="float:left;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
 <br>
-<img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
+<img style="float:left;" src="images/glide-rob-whyte-2.png" class="responsive"/>
 <br><br>
 
 
@@ -44,10 +44,10 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * PPT 
 
 <br>
-<img style="float:right;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
+<img style="float:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br>
  
-<img style="float:right;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
+<img style="float:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
 <hr />
 
 ## Contract Hound
@@ -63,7 +63,7 @@ Delivered 10 articles and completed the help center.
 * Fastone Capture  
 <br>
 <br>
-<img style="float:right;" src="images/hound-rob-whyte-1.png" class="responsive"/>
+<img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
 <br><br> 
-<img style="float:right;" src="images/hound-rob-whyte-2.png" class="responsive"/>
+<img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
 <hr />
