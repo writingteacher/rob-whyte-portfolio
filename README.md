@@ -1,7 +1,7 @@
 # Project Samples
 Technical writer and published author with a background in instructional design and training. This portfolio contains samples from SaaS user documentation projects.
 
-<img src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" width="150"/>  
+<img src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" width="150"/>
 <br>  
 # Sinorbis    
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
@@ -11,7 +11,7 @@ The company needed a knowledge base to support its rapidly growing client base a
 <br>  
   <br>
 <img src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
-<br>  
+
 #### My role  
 I built the company's knowledge base from scratch. The work started with a rough information architecture mapped out on a few PPT slides. Eighteen months later, the help site had reached maturity.
 <br>  
