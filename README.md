@@ -1,25 +1,23 @@
-# Rob Whyte Projects
-
-
+# Project Samples
 Technical writer and published author with a background in instructional design and training. This portfolio contains samples from SaaS user documentation projects.
 
 <img src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" width="150"/>  
 <br>  
-  <br>  
-## Sinorbis  
+    <br>  
+# Sinorbis  
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online business in China. In addition to the intuitive UI, Sinorbis has access to a hosting service that delivers web access on the other side of China's Great Firewall.
 
-##### The problem  
+#### The problem  
 The company needed a knowledge base to support its rapidly growing client base and revamp its technical support system. 
 <br>  
   <br>
 <img src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br>  
   <br>
-##### My role  
-I built the company's knowledge base from scratch. The work started with a rough information architecture mapped out on a few  PPT slides. Some eighteen months later, the help site had reached maturity. For the most part, the company trusted me to work alone, figure the system, and then transform complex ideas into plain English explanations. Today, I continue to provide occasion maintenance support by writing how-to articles for new features.
+#### My role  
+I built the company's knowledge base from scratch. The work started with a rough information architecture mapped out on a few  PPT slides. Some eighteen months later, the help site had reached maturity. The company trusted me to figure out the system on my own and transform complex ideas into plain English explanations. Today, I continue to provide occasion maintenance support by writing how-to articles for new features.
 
-##### Tools  
+#### Tools  
 * Zendesk
 * Fastone Capture
 * MS Excel
