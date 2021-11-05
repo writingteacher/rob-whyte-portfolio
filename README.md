@@ -1,5 +1,3 @@
-# Portfolio
-
 # About
 Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand.
 
