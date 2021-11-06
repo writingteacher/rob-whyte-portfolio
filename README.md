@@ -7,6 +7,7 @@ Rob comes to technical writing with an ear for plain English communication, a he
 <br/>
 
 > [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
+
 <!-- -->
 <br/>
 <br/>    
