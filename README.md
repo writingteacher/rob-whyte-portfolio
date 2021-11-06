@@ -85,11 +85,11 @@ Created copy doc.
 <br/>
 <br/>
 ## B2B white paper
-An example of independent research and long-form writing.
+This Tokyo-based client sells drones and runs a drone pilot school.
 ##### The problem
-The client needed a white paper to document the technical and financial feasibility of heavy lift drones for remote construction projects.
+The client needed a white paper to document the technical and financial feasibility of heavy lift drones for remote pylon construction projects.
 ##### My role
-I developed a use case scenario and then researched the technical and financial implications. In addition to writing the paper, I did the layout and design work to create a final PDF. A key challenge was simplifying complex language for the intended reader (technically proficient engineers who were non-native English speakers).
+I developed a use case scenario and then researched the technical and financial implications. A key challenge was simplifying complex language for the intended reader (technically proficient engineers who were non-native English speakers). In addition to writing the paper, I designed the final PDF. 
 ##### Results
 Successfully delivered a 17-page PDF before the project deadline. 
 ##### Tools
