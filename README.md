@@ -1,9 +1,9 @@
 ## About
-<img id="img" style="float:right;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" >  Rob has been writing professionally for 25+ years. Fresh out of graduate school (M.Sc. Urban Planning), he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, where the Wheel of Fortuna showed her hand.
+<img id="img" style="float:right;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" > A freelance technical writer since 2018, Rob specializes in user documentation for SaaS platforms. He has a knack for learning the user side of software and transforming complex tasks into English. On occasion, he creates and narrates explainer videos for SaaS platforms and new features.
 
-A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author, generating organic traffic as a content writer, and learning the art of simplifying instructions as a teacher. 
-
-Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for documentation that reduces user friction.  
+Before technical writing, he honed his professional research and writing skills as a Lonely Planet author, generating organic traffic as a SEO content writer, and learning the art of simplifying instructions as a teacher. An avid learner, Rob has completed courses in technical writing fundamentals, UX writing, and e-learning instructional design. He is currently working on a capstone project to complete an eMBA.
+ 
+ 
 <br/>
 
 > [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
@@ -89,7 +89,7 @@ An example of independent research and long-form writing.
 ##### The problem
 The client needed a white paper to document the technical and financial feasibility of heavy lift drones for remote construction projects.
 ##### My role
-Conducted technical and financial research. Developed cost scenarios. Completed all layout and document design work. A key challenge was simplifying complex language for the intended reader (technically proficient engineers who were non-native English speakers).
+I developed a use case scenario and then researched the technical and financial implications. In addition to writing the paper, I did the layout and design work to create a final PDF. A key challenge was simplifying complex language for the intended reader (technically proficient engineers who were non-native English speakers).
 ##### Results
 Successfully delivered a 17-page PDF before the project deadline. 
 ##### Tools
