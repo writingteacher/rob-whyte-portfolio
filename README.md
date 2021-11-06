@@ -86,7 +86,7 @@ Based in Tokyo, this client sells heavy lift drones and operates a drone pilot s
 ##### The problem
 The client needed a white paper to document the technical and financial feasibility of heavy lift drones for remote construction projects.
 ##### My role
-Conducted technical and financial research. Developed cost scenarios. Completed all layout and document design work. 
+Conducted technical and financial research. Developed cost scenarios. Completed all layout and document design work. A key challenge was to simplify complex language for the intended reader (technically proficient engineers who were non-native English speakers).
 ##### Results
 Successfully delivered a 17-page PDF before the project deadline. 
 ##### Tools
