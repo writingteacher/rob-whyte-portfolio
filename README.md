@@ -5,8 +5,6 @@ A freelance technical writer since 2018, he specializes in user documentation fo
 
 At the intersection of that experience, Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for SaaS documentation that reduces user friction.  
  <br />  
- <br />   
-
 ## Glide
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
 ##### The problem
@@ -20,12 +18,9 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Intercom
 * Fastone Capture
 <br />  
- <br />  
-
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
-<br>
-<br>
-<img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
+<br>  
+<img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>  
 <br />  
 <br />   
 ## Sinorbis
