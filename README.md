@@ -21,10 +21,12 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Camtasia
 * Intercom
 * Fastone Capture
+     
 <br />  
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>  
-<img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>  
+<img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
+  
 <br />  
 <br />   
 ## Sinorbis knowledge base
@@ -48,7 +50,8 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-<br />
+   
+<br />  
 ## Contract Hound knowledge base
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
@@ -65,6 +68,7 @@ Delivered 10 articles and completed the help center.
 <br>
 <br> 
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
+   
 <br />  
 <br />   
 ## UX Writing
@@ -82,7 +86,8 @@ Created doc copy.
 <br>
 <img style="float:left;" src="images/ux-rob-whyte-1.png" class="responsive"/>
 <br><br> 
-<img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>  
+<img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
+   
 <br />  
 <br />   
 ## B2B white paper
@@ -101,6 +106,7 @@ Successfully delivered a 17-page PDF before the project deadline.
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
 <br><br> 
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
+   
 <br />  
 <br />   
 ## B2B explainer videos
