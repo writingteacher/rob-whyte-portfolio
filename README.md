@@ -117,7 +117,7 @@ Deliver mp4 files on time.
 
 <br>
 <br>
-[<img style="float:left;" src="video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing)
+<img style="float:left;" src="video-rob-whyte-1.png" class="responsive"/>(https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing)
 <br><br> 
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
 
