@@ -5,7 +5,7 @@ A freelance technical writer since 2018, he specializes in user documentation fo
 
 At the intersection of that experience, Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for SaaS documentation that reduces user friction.  
  <br />  
-## Glide
+## Glide help center
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
 ##### The problem
 The company needed an expert writer to quickly learn the platform, write help center content, and create explainer videos.
@@ -23,7 +23,7 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 <img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>  
 <br />  
 <br />   
-## Sinorbis
+## Sinorbis knowledge base
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
 <br>
 ##### The problem
@@ -45,7 +45,7 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>  
 <br />  
-## Contract Hound
+## Contract Hound knowledge base
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
 Before launching its upated product, the CEO asked me to write the content for a quick start.
