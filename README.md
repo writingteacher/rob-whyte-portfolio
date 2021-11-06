@@ -79,4 +79,23 @@ Created doc copy.
 <img style="float:left;" src="images/ux-rob-whyte-1.png" class="responsive"/>
 <br><br> 
 <img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
+<br />  
+<br />   
+# B2B writing projects
 
+## White paper
+Independent onboarding project.Research and wri.
+##### The problem
+The client needed a white paper to document the the technicla and fianciali feaviliy of heavy lift drones for remote construction projects.
+##### My role
+Conducted technical and financial research. Developed cost scenarios. Completed all layout and document design work. 
+##### Results
+Sucesfully delivered a 17-page PDF before the project deadline. 
+##### Tools
+* InDesign
+* Photoshop
+<br>
+<br>
+<img style="float:left;" src="images/drone-rob-whyte-1.png" class="responsive"/>
+<br><br> 
+<img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
