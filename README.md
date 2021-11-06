@@ -96,7 +96,7 @@ Successfully delivered a 17-page PDF before the project deadline.
 * InDesign
 * Photoshop
 <br/>
-<img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
+<img style="float:left;" src="images/drone-rob-whyte-1.png" class="responsive"/>
 <br/>
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
 <br/>
