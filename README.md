@@ -78,7 +78,7 @@ Created doc copy.
 <br>
 <img style="float:left;" src="images/ux-rob-whyte-1.png" class="responsive"/>
 <br><br> 
-<img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
+<img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>  
 <br />  
 <br />   
 ## White paper
