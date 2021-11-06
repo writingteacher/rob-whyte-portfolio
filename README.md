@@ -7,8 +7,8 @@ Rob comes to technical writing with an ear for plain English communication, a he
  <br /> 
 
 > [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
-
-
+   
+   
 ## Glide help center
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platform for transaction documents and an e-signature tool.
 ##### The problem
@@ -21,14 +21,12 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Camtasia
 * Intercom
 * Fastone Capture
-     
-<br />  
+   
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>  
 <img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
-  
-<br />  
-<br />   
+   
+     
 ## Sinorbis knowledge base
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
 <br>
@@ -46,12 +44,12 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * Fastone Capture
 * MS Excel
 * PPT
-<br />  
+   
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
    
-<br />  
+   
 ## Contract Hound knowledge base
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
@@ -63,14 +61,13 @@ Delivered 10 articles and completed the help center.
 ##### Tools
 * Intercom
 * Fastone Capture
-<br>
+   
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
 <br>
 <br> 
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
    
-<br />  
-<br />   
+    
 ## UX Writing
 Independent onboarding project.
 ##### The problem
@@ -82,14 +79,12 @@ Created doc copy.
 ##### Tools
 * Figma
 * Google docs
-<br>
-<br>
+   
 <img style="float:left;" src="images/ux-rob-whyte-1.png" class="responsive"/>
 <br><br> 
 <img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
    
-<br />  
-<br />   
+     
 ## B2B white paper
 An example of independent research and long-form writing.
 ##### The problem
@@ -101,14 +96,12 @@ Successfully delivered a 17-page PDF before the project deadline.
 ##### Tools
 * InDesign
 * Photoshop
-<br>
-<br>
+   
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
 <br><br> 
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
    
-<br />  
-<br />   
+    
 ## B2B explainer videos
 Various clients.
 ##### The problem
@@ -120,7 +113,7 @@ Deliver mp4 files on time.
 ##### Tools
 * Camtasia
 * Google Docs
-<br />  
+   
 [<img style="float:left;" src="images/video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing){:target="_blank" rel="noopener"}
 <br><br> 
 [<img style="float:left;" src="images/video-rob-whyte-2.png" class="responsive"/>](https://www.youtube.com/watch?v=h8TJHeE9wXM){:target="_blank" rel="noopener"}
