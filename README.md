@@ -4,11 +4,11 @@
 A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
 
 Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for documentation that reduces user friction.  
-<br> 
+<br/>
 
 > [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
-<br>
-<br> 
+<br/>
+<br/>    
 ## Glide help center
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platform for transaction documents and an e-signature tool.
 ##### The problem
@@ -21,12 +21,12 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Camtasia
 * Intercom
 * Fastone Capture
-<br>
+<br/>
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
-<br>
+<br/>
 <img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
-<br>
-<br>
+<br/>
+<br/>
 ## Sinorbis knowledge base
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
 <br>
