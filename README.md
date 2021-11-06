@@ -115,7 +115,6 @@ Deliver mp4 files on time.
 * Camtasia
 * Google Docs
 <br />  
-<br />   
 [<img style="float:left;" src="images/video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing){:target="_blank" rel="noopener"}
 <br><br> 
 [<img style="float:left;" src="images/video-rob-whyte-2.png" class="responsive"/>](https://www.youtube.com/watch?v=h8TJHeE9wXM){:target="_blank" rel="noopener"}
