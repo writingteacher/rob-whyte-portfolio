@@ -6,7 +6,7 @@ A freelance technical writer since 2018, he specializes in user documentation fo
 Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for documentation that reduces user friction.  
 <br/>
 
-> [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
+> [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}  
 <br/>
 <br/>    
 ## Glide help center
