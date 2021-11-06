@@ -81,7 +81,6 @@ Created doc copy.
 <img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
 <br />  
 <br />   
-# B2B writing projects
 
 ## White paper
 Independent onboarding project.Research and wri.
