@@ -81,15 +81,14 @@ Created doc copy.
 <img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
 <br />  
 <br />   
-
 ## White paper
-Independent onboarding project.Research and wri.
+Based in Tokyo, this client sells heavy lift drones and operates a drone pilot school.
 ##### The problem
-The client needed a white paper to document the the technicla and fianciali feaviliy of heavy lift drones for remote construction projects.
+The client needed a white paper to document the technical and financial feasibility of heavy lift drones for remote construction projects.
 ##### My role
 Conducted technical and financial research. Developed cost scenarios. Completed all layout and document design work. 
 ##### Results
-Sucesfully delivered a 17-page PDF before the project deadline. 
+Successfully delivered a 17-page PDF before the project deadline. 
 ##### Tools
 * InDesign
 * Photoshop
