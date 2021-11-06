@@ -3,9 +3,9 @@
 
 A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
 
-At the intersection of that experience, Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for SaaS documentation that reduces user friction.  
+Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for documentation that reduces user friction.  
  <br />  
- [CONTACT](mailto:robbusan@yahoo.com)     <a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
+> [CONTACT](mailto:robbusan@yahoo.com)     <a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
  <br />  
   <br />  
 ## Glide help center
