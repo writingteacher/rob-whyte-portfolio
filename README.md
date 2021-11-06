@@ -108,12 +108,13 @@ Various clients.
 ##### The problem
 The client needs a tutorial video to demonstrate or explain a specific task or feature.
 ##### My role
-Script, record, narrate, an edit screen recordings. The key to a successful outcome is to get feedback from all parties beore recording. 
+Script, record, narrate, and edit screen recordings. The key to a successful outcome is getting feedback from all parties before recording. 
 ##### Results
 Deliver mp4 files on time. 
 ##### Tools
 * Camtasia
 * Google Docs
+
 <br>
 <br>
 [<img style="float:left;" src="video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing)
