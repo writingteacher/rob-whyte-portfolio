@@ -9,7 +9,6 @@ An avid learner, Rob has completed courses in technical writing fundamentals, UX
 > [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
 
 <!-- -->
-<br/>
 ## Glide help center
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platform for transaction documents and an e-signature tool.
 ##### The problem
