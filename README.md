@@ -1,15 +1,15 @@
 ## About
-<img id="img" style="float:right;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" > A freelance technical writer since 2018, Rob specializes in user documentation for vertical SaaS platforms and enterprise software. On occasion, he creates and narrates explainer videos for that describe tasks and new features.
+<img id="img" style="float:right;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" > A freelance technical writer since 2018, Rob specializes in user documentation for vertical SaaS platforms and enterprise software. On occasion, he creates and narrates explainer videos that describe tasks or new features.
 
-Before technical writing, he honed his professional research and writing skills as a Lonely Planet author, generated organic traffic as a B2B SEO content writer, and learned the art of simplifying instructions as a teacher. An avid learner, Rob has completed courses in technical writing fundamentals, UX writing, and e-learning instructional design. He is currently working on a capstone project to complete an eMBA.
- 
- 
+Before technical writing, he honed his professional research and writing skills as a Lonely Planet author, generated organic traffic as a B2B SEO content writer, and learned the art of simplifying instructions as a teacher. 
+
+An avid learner, Rob has completed courses in technical writing fundamentals, UX writing, and e-learning instructional design. He is currently working on a capstone project to complete an eMBA.
 <br/>
 
 > [CONTACT](mailto:robbusan@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
 
 <!-- -->
-<br/> 
+<br/>
 ## Glide help center
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platform for transaction documents and an e-signature tool.
 ##### The problem
@@ -29,16 +29,16 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 <br/>
 <br/>
 ## Sinorbis knowledge base
-Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
+Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China.
 <br/>
 ##### The problem
-The company needed a knowledge base to support its rapidly growing client base and revamp its technical support system.
+The company needed a knowledge base to support its rapidly growing client base and revamp its support system.
 <br/>
 ##### My role
 I built the company's knowledge base from scratch. The work started with a rough information architecture mapped out on a few PPT slides. Eighteen months later, the help site had reached maturity.
 <br/>
 ##### Results
-Delivered an easy to search Zendesk help center. The knowledge base articles help the Support Team. Instead of manually respoding to every ticket, the system send out links to how-to articles.
+Delivered an easy to search Zendesk help center which reduces Support Team workload. Instead of manually respoding to every ticket, the omnichannel support system sends out links to relevant how-to articles.
 <br/>
 ##### Tools
 * Zendesk
@@ -50,10 +50,10 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <br/>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
 <br/>
-## Contract Hound knowledge base
+## Contract Hound quick start guide
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
-Before launching its updated product, the CEO asked me to write the content for a quick start.
+Before launching its updated service, the CEO asked me to write the content for a quick start guide.
 ##### My role
 Created the guide from scratch. Learned the platform, outlined the required content, wrote the how-to articles.
 ##### Results
@@ -119,9 +119,9 @@ Deliver mp4 files on time.
 <br/>
 <br/>
 ## Online SEO writing 
-Writing B2B content.
+WPBlazer is a WordPress plugin developer. After writing all of the knowledge base articles, the client asked me to write SEO content. 
 ##### The problem
-The client, a WordPress plugin developer, wanted to increase organic site traffic by publishing SEO blog posts.
+The client wanted to increase organic site traffic.
 ##### My role
 Wrote monthly posts (700 to 1200 words) that met client specs. All articles had to meet Yoast SEO criteria and pass plagiarism and reading level tests.
 ##### Results
