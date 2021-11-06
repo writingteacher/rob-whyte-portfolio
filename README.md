@@ -125,7 +125,7 @@ The client, a WordPress plugin developer, wanted to increase organic site traffi
 ##### My role
 Wrote monthly posts (700 to 1200 words) that met client specs. All articles had to meet Yoast SEO criteria and pass plagiarism and reading level tests.
 ##### Results
-Successfully delivered 1o blog posts. 
+Successfully delivered 10 blog posts. 
 ##### Tools
 * WordPress
 * Hemingway editor
