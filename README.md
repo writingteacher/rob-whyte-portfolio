@@ -47,8 +47,7 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <br/>
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br/>
-<img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-<br/>
+<img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/><br/>
 <br/>
 ## Contract Hound knowledge base
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
@@ -74,7 +73,7 @@ Write onboarding copy for an app that increases conversion rates.
 ##### My role
 Write the UX text and create a copy doc.
 ##### Results
-Created doc copy.
+Created copy doc.
 ##### Tools
 * Figma
 * Google docs
