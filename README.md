@@ -48,7 +48,6 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
 <br>
-<section>
     <div class="blockgrey">
 ## Contract Hound
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
@@ -63,7 +62,7 @@ Delivered 10 articles and completed the help center.
 * Fastone Capture
 <br>
 </div>
-</section>
+
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
 <br>
 <br> 
