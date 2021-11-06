@@ -48,7 +48,6 @@ Delivered an easy to search Zendesk help center which reduces Support Team workl
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br/>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-<br/>
 ## Contract Hound quick start guide
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
