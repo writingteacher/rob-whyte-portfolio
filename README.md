@@ -114,10 +114,9 @@ Deliver mp4 files on time.
 ##### Tools
 * Camtasia
 * Google Docs
-
-<br>
-<br>
+<br />  
+<br />   
 [!<img style="float:left;" src="images/video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing)
 <br><br> 
-<img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
+[!<img style="float:left;" src="images/video-rob-whyte-2.png" class="responsive"/>](https://www.youtube.com/watch?v=h8TJHeE9wXM)
 
