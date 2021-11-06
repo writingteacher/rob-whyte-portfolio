@@ -29,27 +29,27 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 <br/>
 ## Sinorbis knowledge base
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
-<br>
+<br/>
 ##### The problem
 The company needed a knowledge base to support its rapidly growing client base and revamp its technical support system.
-<br>
+<br/>
 ##### My role
 I built the company's knowledge base from scratch. The work started with a rough information architecture mapped out on a few PPT slides. Eighteen months later, the help site had reached maturity.
-<br>
+<br/>
 ##### Results
 Delivered an easy to search Zendesk help center. The knowledge base articles help the Support Team. Instead of manually respoding to every ticket, the system send out links to how-to articles.
-<br>
+<br/>
 ##### Tools
 * Zendesk
 * Fastone Capture
 * MS Excel
 * PPT
-<br>
+<br/>
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
-<br>      
+<br/>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-<br>
-<br>
+<br/>
+<br/>
 ## Contract Hound knowledge base
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
@@ -61,12 +61,12 @@ Delivered 10 articles and completed the help center.
 ##### Tools
 * Intercom
 * Fastone Capture
-<br>
+<br/>
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
-<br>    
+<br/>  
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
-<br>
-<br>
+<br/>
+<br/>
 ## UX Writing
 Independent onboarding project.
 ##### The problem
@@ -78,12 +78,12 @@ Created doc copy.
 ##### Tools
 * Figma
 * Google docs
-<br>
+<br/>
 <img style="float:left;" src="images/ux-rob-whyte-1.png" class="responsive"/>
-<br>
+<br/>
 <img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
-<br>
-<br>
+<br/>
+<br/>
 ## B2B white paper
 An example of independent research and long-form writing.
 ##### The problem
@@ -95,12 +95,12 @@ Successfully delivered a 17-page PDF before the project deadline.
 ##### Tools
 * InDesign
 * Photoshop
-<br>
+<br/>
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
-<br>
+<br/>
 <img style="float:left;" src="images/drone-rob-whyte-2.png" class="responsive"/>
-<br>
-<br>
+<br/>
+<br/>
 ## B2B explainer videos
 Various clients.
 ##### The problem
@@ -112,7 +112,7 @@ Deliver mp4 files on time.
 ##### Tools
 * Camtasia
 * Google Docs
-<br>
+<br/>
 [<img style="float:left;" src="images/video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing){:target="_blank" rel="noopener"}
-<br>
+<br/>
 [<img style="float:left;" src="images/video-rob-whyte-2.png" class="responsive"/>](https://www.youtube.com/watch?v=h8TJHeE9wXM){:target="_blank" rel="noopener"}
