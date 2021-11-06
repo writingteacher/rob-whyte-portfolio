@@ -81,7 +81,7 @@ Created doc copy.
 <img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>  
 <br />  
 <br />   
-## White paper
+## B2B White paper
 Based in Tokyo, this client sells heavy lift drones and operates a drone pilot school.
 ##### The problem
 The client needed a white paper to document the technical and financial feasibility of heavy lift drones for remote construction projects.
