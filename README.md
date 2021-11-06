@@ -7,7 +7,6 @@ Rob comes to technical writing with an ear for plain English communication, a he
  <br />  
 > [CONTACT](mailto:robbusan@yahoo.com)     <a href="https://www.linkedin.com/in/robwhyte/">LINKEDIN</a>{:target="_blank"}
  <br />  
-  <br />  
 ## Glide help center
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
 ##### The problem
