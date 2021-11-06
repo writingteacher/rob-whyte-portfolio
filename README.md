@@ -62,14 +62,15 @@ Delivered 10 articles and completed the help center.
 * Intercom
 * Fastone Capture
 <br>
+                  </div>
+</section>
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
 <br>
 <br> 
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
 <br>
 <br>
-          </div>
-</section>
+
 ## UX Writing
 Independent onboarding project.
 ##### The problem
