@@ -10,7 +10,7 @@ Rob comes to technical writing with an ear for plain English communication, a he
 
 
 ## Glide help center
-This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
+This San Francisco SaaS startup changed the way real estate agents work by creating a digital platform for transaction documents and an e-signature tool.
 ##### The problem
 The company needed an expert writer to quickly learn the platform, write help center content, and create explainer videos.
 ##### My role
@@ -52,7 +52,7 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 ## Contract Hound knowledge base
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
-Before launching its upated product, the CEO asked me to write the content for a quick start.
+Before launching its updated product, the CEO asked me to write the content for a quick start.
 ##### My role
 Created the guide from scratch. Learned the platform, outlined the required content, wrote the how-to articles.
 ##### Results
@@ -90,7 +90,7 @@ Based in Tokyo, this client sells heavy lift drones and operates a drone pilot s
 ##### The problem
 The client needed a white paper to document the technical and financial feasibility of heavy lift drones for remote construction projects.
 ##### My role
-Conducted technical and financial research. Developed cost scenarios. Completed all layout and document design work. A key challenge was to simplify complex language for the intended reader (technically proficient engineers who were non-native English speakers).
+Conducted technical and financial research. Developed cost scenarios. Completed all layout and document design work. A key challenge was simplifying complex language for the intended reader (technically proficient engineers who were non-native English speakers).
 ##### Results
 Successfully delivered a 17-page PDF before the project deadline. 
 ##### Tools
@@ -118,4 +118,3 @@ Deliver mp4 files on time.
 [<img style="float:left;" src="images/video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing){:target="_blank" rel="noopener"}
 <br><br> 
 [<img style="float:left;" src="images/video-rob-whyte-2.png" class="responsive"/>](https://www.youtube.com/watch?v=h8TJHeE9wXM){:target="_blank" rel="noopener"}
-
