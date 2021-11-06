@@ -5,7 +5,7 @@ A freelance technical writer since 2018, he specializes in user documentation fo
 
 At the intersection of that experience, Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for SaaS documentation that reduces user friction.  
 <br>
-
+<br>
 ## Glide
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
 ##### The problem
@@ -18,10 +18,8 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Camtasia
 * Intercom
 * Fastone Capture
- 
 <br>
 <br>
- 
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
 <br>
@@ -50,8 +48,8 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-<br>
- 
+<br> 
+<br> 
 ## Contract Hound
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
@@ -64,14 +62,12 @@ Delivered 10 articles and completed the help center.
 * Intercom
 * Fastone Capture
 <br>
-
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
 <br>
 <br> 
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
 <br>
 <br>
-
 ## UX Writing
 Independent onboarding project.
 ##### The problem
