@@ -47,6 +47,8 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 <br/>
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br/>
+<img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
+<br/>
 ## Contract Hound knowledge base
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
