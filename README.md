@@ -1,7 +1,7 @@
 ## About
 <img id="img" style="float:right;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" >  Rob has been writing professionally for 25+ years. Fresh out of graduate school (M.Sc. Urban Planning), he wrote technical reports and proposals for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, where the Wheel of Fortuna showed her hand.
 
-A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
+A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author, generating organic traffic as a content writer, and learning the art of simplifying instructions as a teacher. 
 
 Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for documentation that reduces user friction.  
 <br/>
@@ -119,17 +119,17 @@ Deliver mp4 files on time.
 <br/>
 <br/>
 ## Online SEO writing 
-An example of independent research and long-form writing.
+Writing B2B content.
 ##### The problem
 The client, a WordPress plugin developer, wanted to increase organic site traffic by publishing SEO blog posts.
 ##### My role
-Wrote monthly posts (700 to 1200 words) that met client specs. All articles had to neet Yoast SEO criteria and pass a plagarism and reading level tests.
+Wrote monthly posts (700 to 1200 words) that met client specs. All articles had to meet Yoast SEO criteria and pass plagiarism and reading level tests.
 ##### Results
 Successfully delivered 1o blog posts. 
 ##### Tools
 * WordPress
 * Hemingway editor
-* Fastone Capture
+* Faststone Capture
 <br/>
 <img style="float:left;" src="images/seo-rob-whyte-1.png" class="responsive"/>
 <br/>
