@@ -116,3 +116,23 @@ Deliver mp4 files on time.
 [<img style="float:left;" src="images/video-rob-whyte-1.png" class="responsive"/>](https://drive.google.com/file/d/1HU0M-hpU7hoCl-VA36S4DDJKT2X6PKFk/view?usp=sharing){:target="_blank" rel="noopener"}
 <br/>
 [<img style="float:left;" src="images/video-rob-whyte-2.png" class="responsive"/>](https://www.youtube.com/watch?v=h8TJHeE9wXM){:target="_blank" rel="noopener"}
+<br/>
+<br/>
+## Online SEO writing 
+An example of independent research and long-form writing.
+##### The problem
+The client, a WordPress plugin developer, wanted to increase organic site traffic by publishing SEO blog posts.
+##### My role
+Wrote monthly posts (700 to 1200 words) that met client specs. All articles had to neet Yoast SEO criteria and pass a plagarism and reading level tests.
+##### Results
+Successfully delivered 1o blog posts. 
+##### Tools
+* WordPress
+* Hemingway editor
+* Fastone Capture
+<br/>
+<img style="float:left;" src="images/seo-rob-whyte-1.png" class="responsive"/>
+<br/>
+<img style="float:left;" src="images/seo-rob-whyte-2.png" class="responsive"/>
+<br/>
+<br/>
