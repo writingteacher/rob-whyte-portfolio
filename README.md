@@ -23,11 +23,10 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Fastone Capture
    
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
-  
-  
+<br>  
 <img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
-<br>   
-<br>   
+  
+    
 ## Sinorbis knowledge base
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
 <br>
@@ -47,7 +46,7 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * PPT
    
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
-  
+<br>      
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
    
    
@@ -64,7 +63,7 @@ Delivered 10 articles and completed the help center.
 * Fastone Capture
    
 <img style="float:left;" src="images/hound-rob-whyte-1.png" class="responsive"/>
-  
+<br>    
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
 <br>   
 <br>      
@@ -83,8 +82,8 @@ Created doc copy.
 <img style="float:left;" src="images/ux-rob-whyte-1.png" class="responsive"/>
   
 <img style="float:left;" src="images/ux-rob-whyte-2.png" class="responsive"/>
-   
-     
+<br />    
+<br />    
 ## B2B white paper
 An example of independent research and long-form writing.
 ##### The problem
