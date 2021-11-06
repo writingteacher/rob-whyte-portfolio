@@ -4,8 +4,8 @@
 A freelance technical writer since 2018, he specializes in user documentation for SaaS platforms. Before that, he honed his professional writing chops as a Lonely Planet author and learned the art of simplifying instructions as a teacher. 
 
 At the intersection of that experience, Rob comes to technical writing with an ear for plain English communication, a head for breaking down complex operations, and an eye for SaaS documentation that reduces user friction.  
-<br>
-<br>
+ <br />  
+ <br />   
 ## Glide
 This San Francisco SaaS startup changed the way real estate agents work by creating a digital platfom for transaction documents and an e-signature tool.
 ##### The problem
@@ -18,14 +18,14 @@ Created an easy to search mature Intercom help center. Currently provide mainten
 * Camtasia
 * Intercom
 * Fastone Capture
-<br>
-<br>
+<br />  
+ <br />   
 <img style="float:right;" src="images/glide-rob-whyte-1.png" class="responsive"/>
 <br>
 <br>
 <img style="float:right;" src="images/glide-rob-whyte-2.png" class="responsive"/>
-<br>
-<br>
+<br />  
+<br />   
 ## Sinorbis
 Based in Sydney, Australia, this SaaS CMS provides a drag and drop web builder for entrepreneurs hoping to create an online presence in China. In addition to the intuitive UI, Sinorbis' hosting service delivers web access on the other side of China's Great Firewall.
 <br>
@@ -43,13 +43,13 @@ Delivered an easy to search Zendesk help center. The knowledge base articles hel
 * Fastone Capture
 * MS Excel
 * PPT
-<br>
-<br>
+<br />  
+<br />   
 <img style="align:left;" src="images/sinorbis-rob-whyte-1.png" class="responsive"/>
 <br>
 <img style="align:left;" src="images/sinorbis-rob-whyte-2.png" class="responsive"/>
-<br> 
-<br> 
+<br />  
+<br />   
 ## Contract Hound
 Based in Singapore, this vertical SaaS startup helps clients store, locate, and manage contracts.
 ##### The problem
@@ -66,8 +66,8 @@ Delivered 10 articles and completed the help center.
 <br>
 <br> 
 <img style="float:left;" src="images/hound-rob-whyte-2.png" class="responsive"/>
-<br>
-<br>
+<br />  
+<br />   
 ## UX Writing
 Independent onboarding project.
 ##### The problem
