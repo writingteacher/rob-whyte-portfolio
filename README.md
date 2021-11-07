@@ -134,3 +134,20 @@ Successfully delivered 10 blog posts.
 <img style="float:left;" src="images/seo-rob-whyte-2.png" class="responsive"/>
 <br/>
 <br/>
+## Lonely Planet country guide 
+LP is a global brand know for country guidebooks and publications that inspire exploration. 
+##### The problem
+Role out a new South Korea country guide and support organic traffic.
+##### My role
+In additio to researching and co-authoring the country guide boo, I wrote online pieces for two Korea desintations.
+##### Results
+Successfully all content. 
+##### Tools
+* Google Docs
+* enterprise pubishing software
+<br/>
+<img style="float:left;" src="images/lonely-planet-rob-whyte-1.png" class="responsive"/>
+<br/>
+<img style="float:left;" src="images/lonely-planet-rob-whyte-2.png" class="responsive"/>
+<br/>
+<br/>
