@@ -141,7 +141,7 @@ Roll out a new South Korea country guidebook on a tight publication schedule and
 ##### My role
 In addition to researching and co-authoring the country guidebook, I wrote online pieces for two Korean destinations.
 ##### Results
-Successfully all content. 
+Successfully delivered all content on time. 
 ##### Tools
 * Google Docs
 * enterprise pubishing software
