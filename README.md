@@ -139,7 +139,7 @@ LP is a global brand known for country guidebooks and publications that inspire 
 ##### The problem
 Role out a new South Korea country guide and support organic traffic.
 ##### My role
-In addition to researching and co-authoring the country guide boo, I wrote online pieces for two Korean destinations.
+In addition to researching and co-authoring the country guidebook, I wrote online pieces for two Korean destinations.
 ##### Results
 Successfully all content. 
 ##### Tools
