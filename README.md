@@ -135,11 +135,11 @@ Successfully delivered 10 blog posts.
 <br/>
 <br/>
 ## Lonely Planet country guide 
-LP is a global brand know for country guidebooks and publications that inspire exploration. 
+LP is a global brand known for country guidebooks and publications that inspire exploration. 
 ##### The problem
 Role out a new South Korea country guide and support organic traffic.
 ##### My role
-In additio to researching and co-authoring the country guide boo, I wrote online pieces for two Korea desintations.
+In addition to researching and co-authoring the country guide boo, I wrote online pieces for two Korean destinations.
 ##### Results
 Successfully all content. 
 ##### Tools
