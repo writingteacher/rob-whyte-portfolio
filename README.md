@@ -1,5 +1,5 @@
 ## About
-<img id="img" style="float:right;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" > A freelance technical writer since 2018, Rob specializes in user documentation for vertical SaaS platforms and enterprise software. On occasion, he creates and narrates explainer videos that describe tasks or new features.
+<img id="img" style="float:right;" src="rob-whyte.jpg" alt="rob whyte technical writer" class="responsive-a" > A freelance technical writer since 2018, Rob specializes in user documentation for vertical SaaS platforms and enterprise software. On occasion, he creates and narrates explainer videos.
 
 Before technical writing, he honed his professional research and writing skills as a Lonely Planet author, generated organic traffic as a B2B SEO content writer, and learned the art of simplifying instructions as a teacher. 
 
