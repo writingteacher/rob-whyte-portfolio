@@ -144,7 +144,7 @@ In addition to researching and co-authoring the country guidebook, I wrote onlin
 Successfully delivered all content on time. 
 ##### Tools
 * Google Docs
-* enterprise pubishing software
+* enterprise publishing software
 <br/>
 <img style="float:left;" src="images/lonely-planet-rob-whyte-1.png" class="responsive"/>
 <br/>
